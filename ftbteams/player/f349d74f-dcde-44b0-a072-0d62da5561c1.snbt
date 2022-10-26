@@ -13,6 +13,6 @@
 	}
 	message_history: [ ]
 	extra: {
-		Money: 55L
+		Money: 75L
 	}
 }
